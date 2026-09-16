@@ -4,12 +4,12 @@
   "themes": {
     "theme": {
       "colors": {
-        "accent": "#0062BA",
-        "brand1": "#0D7A5F",
-        "brand2": "#5B3FA0",
+        "accent": "#30c726",
+        "brand1": "#44efc4",
+        "brand2": "#ff2389",
         "neutral": "#24272B"
       },
-      "borderRadius": 999
+      "borderRadius": 9999
     }
   }
 }
